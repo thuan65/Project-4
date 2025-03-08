@@ -3,10 +3,9 @@
 #include <chrono>
 
 using namespace std;
-//see me?
-// My name is Van
-//do you see me
-// Biến đếm số lần so sánh
+
+
+//thấy tôi chưa
 long long comp_count = 0;
 
 void bubble_sort(vector<int>& arr) {
